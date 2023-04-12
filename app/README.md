@@ -1,4 +1,4 @@
-# Landing page [Compare Trailer](https://comparebusinessfinanceloans.com.au/)
+# Landing page [Compare Trailer Design 3](https://comparebusinessfinanceloans.com.au/)
 
 This is a landing page boilerplate that uses PHP scripting language
 
